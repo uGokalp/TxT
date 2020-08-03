@@ -1,0 +1,18 @@
+{
+    "cardPresented": true,
+    "cardRejected": false,
+    "cardAccepted": true,
+    "ext11Opened": true,
+    "handleClosed": true,
+    "booted": true,
+    "ext12Closed": true,
+    "handleOpened": true,
+    "tanRejected": true,
+    "ext12Opened": true,
+    "startedEnteringTAN": true,
+    "timeoutEnteringTAN": true,
+    "ext11Closed": true,
+    "handleUnlocked": true,
+    "handleLocked": true,
+    "tanAccepted": true
+}
